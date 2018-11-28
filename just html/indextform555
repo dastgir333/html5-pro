@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+    <head>
+        
+        <style>.box {
+    background: #2db34a;
+    -webkit-transition-property: background;
+       -moz-transition-property: background;
+         -o-transition-property: background;
+            transition-property: background;
+    -webkit-transition-duration: 1s;
+       -moz-transition-duration: 1s;
+         -o-transition-duration: 1s;
+            transition-duration: 1s;
+    -webkit-transition-timing-function: linear;
+       -moz-transition-timing-function: linear;
+         -o-transition-timing-function: linear;
+            transition-timing-function: linear;
+}
+.box:hover {
+  background: #ff7b29;
+       
+        
+        
+        
+        
+        
+        
+        </style>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </head>
+
+
+
+
+
+<body>
+    
+
+
+
+<figure class="box"> my box</figure>
+
+    </body>
+
+</html>
